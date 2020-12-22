@@ -4,5 +4,5 @@ const path=require("path")
 port=3000;
 app.listen(port,()=>
 {
-console.log("connecting to the sever")}
+console.log("connecting to the sever port")}
 )
